@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shieldkeke
-- 👀 I’m interested in robot
-- 🌱 I’m currently learning sth like VIO 、DRL
+- 👋 Hi, I’m @shieldkeke , a student in ZJU
+- 👀 I’m interested in robotics and computer science
+- 🌱 I’m currently learning sth like DRL VIO trajectory planning SLAM
 - 📫 How to reach me 1097611529@qq.com / chenyeke@zju.edu.cn
 
 <!---
