@@ -4,7 +4,7 @@
 - ⛄ My homepage:[link](https://shieldkeke.github.io/)
 - 👾 My top languages:
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shieldkeke&layout=compact)](https://github.com/shieldkeke/github-readme-stats)
+<!----[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shieldkeke&layout=compact)](https://github.com/shieldkeke/github-readme-stats)--->
 
 <!---
 shieldkeke/shieldkeke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
