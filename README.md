@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shieldkeke , ZJU B.S -> HKU PhD Student
+- 👋 Hi, I’m @shieldkeke , ZJU B.S.E. -> HKU PhD Student
 - 👀 I’m interested in robotics and computer science
 - 📫 How to reach me 1097611529@qq.com / chenyeke@zju.edu.cn
 - ⛄ My homepage:[link](https://shieldkeke.github.io/)
